@@ -1,2 +1,2 @@
 # WatsonPrototype
-Prototype of Watson's Smart Trolley App
+Prototype of Watson's Smart Trolley App!!!
